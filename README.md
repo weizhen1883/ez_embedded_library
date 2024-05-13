@@ -9,7 +9,7 @@ EZ Embedded Library is an easy apply driver library for chips on the market in e
 ## Sub Libraries
 | Name | Description |
 |---|---|
-| [IO EXPANDER](./io_expander/README.md) |   |
+| [IO EXPANDER](./io_expander/README.md) | Library for IO Expander Chips |
 
 ## Version History
 ##### v1.0.0 WIP
